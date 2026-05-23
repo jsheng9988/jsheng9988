@@ -2,7 +2,7 @@
 
 Materials science and Theoretical chemistry graduate. 
 
-I am interested in programming and with knowledge in the applications of Machine Learning (ML), projects in Data science, Chemistry and Materials Science. Strong skills and passion in Data, Software, Statistics, Computational simulation. Equipped with both academic and industry engineering experiences in multinational, multidisciplinary background.
+I am interested in programming and with knowledge in the applications of Machine Learning (ML), projects in Data science, Chemistry and Materials Science. Passion in Data, Software, Statistics, Computational chemistry, Materials, Physics, Computational simulation. Equipped with both academic and industry engineering experiences in multinational, multidisciplinary background.
 
 
 

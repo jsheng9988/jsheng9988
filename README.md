@@ -10,7 +10,7 @@ I am interested in programming and with knowledge in the applications of Machine
   <a href="https://www.linkedin.com/in/jiashengsiow/">LinkedIn</a> 
 </p>
 
-Skills: 
+Computational Skills: 
 - Python
 - Machine Learning
 - C languages
